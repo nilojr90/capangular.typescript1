@@ -20,4 +20,9 @@ Obs: incluir essa informação como um Campo/Propriedade da Classe;
 
 - O arquivo Main.ts deverá ser o centralizador de chamadas, e nele deveremos realizar a construção de um Pedido de compra;
 
+### Uso
+
+1 compilar "tsc"
+2 executar node ./js/Main.js
+
 
